@@ -14,4 +14,4 @@ Using the landmarks given by mediapipe shown below, the camera uses these indica
 
 ![HandLandmarks](https://user-images.githubusercontent.com/95951042/160973274-ee0d8b6c-b559-4152-b99a-a3934eedb0f8.png)
 
-Then, the 
+Then, we use the other file named 
